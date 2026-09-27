@@ -1,0 +1,905 @@
+{
+  "title": "The history of the RO water purifier",
+  "tagline": "3,500 years from settling mud with alum to pushing water backwards through a plastic skin in millions of Indian kitchens.",
+  "intro": "For thousands of years people cleaned water by letting mud settle, boiling it and pouring it through cloth and sand. Then cholera showed that clear water could still kill, and cities turned to sand filters, chlorine and ultraviolet light. Meanwhile scientists discovered osmosis, and in 1959 and 1960 a UCLA team with an Indian-born chemist learned to run it in reverse. Today the same idea turns seawater into city water and hangs on kitchen walls across India, along with new questions about the water it wastes.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Settle, boil and strain",
+      "from": -1500,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "No one knows about germs yet. People make water look and taste better by letting mud settle, boiling it, warming it in the sun and straining it through cloth, sand and gravel."
+    },
+    {
+      "id": "osmosis",
+      "name": "The push of water",
+      "from": 1748,
+      "to": 1910,
+      "color": "#ffb547",
+      "summary": "Scientists notice that water sneaks through thin skins towards salty or sugary liquid, and learn to measure how hard it pushes. They call it osmosis."
+    },
+    {
+      "id": "cities",
+      "name": "Clean water for cities",
+      "from": 1800,
+      "to": 1920,
+      "color": "#5ce1a9",
+      "summary": "Growing cities fight cholera and typhoid with sand filters, a map of a deadly pump, chlorine and the first ultraviolet lamps."
+    },
+    {
+      "id": "membranes",
+      "name": "Turning osmosis around",
+      "from": 1950,
+      "to": 1985,
+      "color": "#7aa2ff",
+      "summary": "Chemists build plastic skins thin and tough enough to push water the wrong way, out of salty water. Reverse osmosis leaves the lab and starts making drinking water."
+    },
+    {
+      "id": "home",
+      "name": "A purifier in every kitchen",
+      "from": 1984,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "In India, UV and then RO purifiers become ordinary kitchen appliances. Standards and courts start asking how much water they waste and when they are really needed."
+    },
+    {
+      "id": "sea",
+      "name": "Cities drink the sea",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Giant RO plants turn seawater into drinking water for millions, using far less energy than the first plants, but leaving salty brine behind."
+    }
+  ],
+  "events": [
+    {
+      "year": -1500,
+      "date": "c. 1500 BCE (reported)",
+      "era": "ancient",
+      "art": "flask",
+      "title": "Alum makes the mud sink",
+      "who": "Ancient Egyptians (reported)",
+      "where": "Egypt",
+      "country": "Egypt",
+      "text": "The US EPA's history of water treatment says Egyptians reportedly used alum as early as 1500 BCE. Alum makes tiny floating specks clump together and sink, so clear water can be poured off the top. Tomb pictures from about the 15th to 13th centuries BCE show water being settled and siphoned.",
+      "why": "Clumping and settling dirt is still the first step at many water works today.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "ancient",
+      "art": "person",
+      "title": "Hippocrates' sleeve",
+      "who": "Hippocrates (attributed)",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "The Greek doctor Hippocrates is said to have boiled water for his patients and then poured it through a cloth bag. The bag came to be called the Hippocratic sleeve. It caught the bits that made water cloudy and smelly.",
+      "why": "It is one of the earliest recorded water filters, a simple version of the first stage in a modern purifier.",
+      "box": "anatomy",
+      "sources": [
+        2,
+        1
+      ]
+    },
+    {
+      "year": 300,
+      "date": "c. 300 CE (older layers earlier)",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Boil it, sun it, filter it",
+      "who": "Sushruta Samhita (Sanskrit medical text)",
+      "where": "India",
+      "country": "India",
+      "text": "This Sanskrit medical text advises boiling water, warming it in the sun and filtering it through sand and coarse gravel. Old books often say it dates from 2000 BCE, but scholars now think it was put together over several centuries and finished around the 3rd or 4th century CE. In India the seeds of the clearing-nut tree (nirmali or kataka) have long been rubbed in water pots to make mud settle.",
+      "why": "It shows people in India were already treating drinking water with heat, sunlight and sand, long before anyone knew about germs.",
+      "sources": [
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1748,
+      "date": "1748",
+      "era": "osmosis",
+      "art": "membrane",
+      "key": true,
+      "title": "Water sneaks through a pig's bladder",
+      "who": "Jean-Antoine Nollet",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Abbé Nollet tied a piece of pig's bladder over a jar of spirits of wine (alcohol) and sank it in water. After a few hours the bladder bulged outwards. When he pricked it, liquid squirted up more than a foot.",
+      "why": "It was the first recorded observation of osmosis: water moving through a thin skin towards the stronger solution.",
+      "box": "osmosis",
+      "sources": [
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "year": 1804,
+      "date": "1804",
+      "era": "cities",
+      "art": "waterdrop",
+      "title": "A filter for a whole town",
+      "who": "John Gibb and Robert Thom",
+      "where": "Paisley, Scotland",
+      "country": "United Kingdom",
+      "text": "John Gibb ran a bleaching works and needed clean water. He built a sand filter designed by the engineer Robert Thom, and sold his extra filtered water to the townspeople.",
+      "why": "It is the first recorded sand filter to supply water to the public.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1829,
+      "date": "1829",
+      "era": "cities",
+      "art": "building",
+      "title": "London gets filtered water",
+      "who": "James Simpson, Chelsea Waterworks Company",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The engineer James Simpson built slow sand filter beds for the Chelsea Waterworks Company. River water trickled slowly down through sand and gravel, which caught dirt and, as we now know, many germs.",
+      "why": "It is often called the first treated public water supply in the world.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852 (filtering required from 1855)",
+      "era": "cities",
+      "art": "scroll",
+      "title": "The law says: filter it",
+      "who": "Parliament of the United Kingdom",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The Metropolis Water Act said that all of London's drinking water had to be effectually filtered from the end of 1855. Later laws added regular checks of what was in the water.",
+      "why": "It was one of the first laws anywhere to demand treated drinking water.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "1854",
+      "era": "cities",
+      "art": "tap",
+      "key": true,
+      "title": "The Broad Street pump",
+      "who": "John Snow",
+      "where": "Soho, London, England",
+      "country": "United Kingdom",
+      "text": "When cholera killed hundreds of people in Soho, the doctor John Snow marked each death on a map. The deaths clustered around one water pump on Broad Street. He persuaded the local officials to take the pump's handle off.",
+      "why": "It helped prove that dirty water spreads disease, the reason we purify drinking water at all.",
+      "sources": [
+        6,
+        7,
+        1
+      ]
+    },
+    {
+      "year": 1877,
+      "date": "1877",
+      "era": "osmosis",
+      "art": "flask",
+      "title": "Measuring the push",
+      "who": "Wilhelm Pfeffer",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The botanist Wilhelm Pfeffer made a man-made membrane inside the wall of an unglazed clay pot. With sugar water inside and pure water outside, water flowed in and pushed up the pressure. He measured that pressure and found it grew with how much sugar there was.",
+      "why": "It was the first measurement of osmotic pressure, the push an RO purifier's pump must beat.",
+      "box": "osmosis",
+      "sources": [
+        14,
+        13
+      ]
+    },
+    {
+      "year": 1877,
+      "date": "1877",
+      "era": "cities",
+      "art": "bolt",
+      "title": "Sunlight kills germs",
+      "who": "Arthur Downes and Thomas Blunt",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Downes and Blunt left test tubes of a nutrient liquid in the sun and others in the shade. The ones in sunlight stayed free of microbes. The part of sunlight that did the killing turned out to be ultraviolet light.",
+      "why": "It is the discovery behind the UV lamp inside many home purifiers.",
+      "box": "uv",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "1886 (Nobel Prize 1901)",
+      "era": "osmosis",
+      "art": "trophy",
+      "title": "A law for osmotic pressure",
+      "who": "Jacobus van 't Hoff",
+      "where": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "text": "Using Pfeffer's numbers, the Dutch chemist Jacobus van 't Hoff showed that dissolved substances push on a membrane much like a gas pushes on a container. The more stuff dissolved, and the warmer it is, the bigger the push. In 1901 he won the very first Nobel Prize in Chemistry, partly for this work.",
+      "why": "His law tells engineers how hard they must push salty water to force it backwards through a membrane.",
+      "box": "osmosis",
+      "sources": [
+        15,
+        41
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "c. 1887–1890",
+      "era": "cities",
+      "art": "flask",
+      "title": "40,000 samples and a map of salt",
+      "who": "Ellen Swallow Richards",
+      "where": "Massachusetts, USA",
+      "country": "United States",
+      "text": "Ellen Swallow Richards, the first woman admitted to MIT, tested about 40,000 water samples for the Massachusetts Board of Health. She drew a 'normal chlorine' map showing how much salt the water naturally had in each place. Extra salt pointed to sewage pollution.",
+      "why": "Her work led to the first water-quality standards in the United States.",
+      "box": "tds",
+      "sources": [
+        39
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897",
+      "era": "cities",
+      "art": "waterdrop",
+      "title": "Chlorine for a whole town",
+      "who": "Maidstone water supply",
+      "where": "Maidstone, England",
+      "country": "United Kingdom",
+      "text": "After an outbreak of typhoid, bleach containing chlorine was used to treat Maidstone's entire water supply. It was a temporary emergency measure.",
+      "why": "Maidstone is often named as the first town to have its whole supply treated with chlorine.",
+      "sources": [
+        0,
+        9
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "26 September 1908",
+      "era": "cities",
+      "art": "tap",
+      "key": true,
+      "title": "Chlorine every day",
+      "who": "John L. Leal and George W. Fuller",
+      "where": "Jersey City, New Jersey, USA",
+      "country": "United States",
+      "text": "The doctor John Leal and the engineer George Fuller set up a plant that added chlorine to Jersey City's water at the Boonton Reservoir, every day, all the time. It treated about 40 million gallons a day. Within a few years chlorinated water spread across America and typhoid deaths fell.",
+      "why": "It was the first continuous chlorination of a US city's drinking water, one of the great public health wins in history.",
+      "sources": [
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1910 (widely cited)",
+      "era": "cities",
+      "art": "bolt",
+      "title": "A city cleaned by UV light",
+      "who": "Marseille water works",
+      "where": "Marseille, France",
+      "country": "France",
+      "text": "A few years after the mercury vapour lamp was invented, Marseille used ultraviolet lamps to disinfect city drinking water. It is widely cited as the first full-scale UV water treatment.",
+      "why": "It showed that light alone could make water safe, the same job the UV lamp does in a home purifier.",
+      "box": "uv",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "membranes",
+      "art": "membrane",
+      "title": "Salt stays behind",
+      "who": "Charles Reid and E. J. Breton",
+      "where": "University of Florida, USA",
+      "country": "United States",
+      "text": "Reid and Breton showed that thin films of cellulose acetate, a kind of plastic, let water through but held back most of the salt. The trouble was that water crept through far too slowly to be useful.",
+      "why": "It proved that a plastic skin could desalt water, if only it could be made faster.",
+      "box": "membrane",
+      "sources": [
+        17,
+        16
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1959–1960 (patent granted 1964)",
+      "era": "membranes",
+      "art": "membrane",
+      "key": true,
+      "title": "A skin thin enough to work",
+      "who": "Sidney Loeb and Srinivasa Sourirajan",
+      "where": "UCLA, Los Angeles, USA",
+      "country": "United States",
+      "text": "Loeb and the Indian-born chemist Srinivasa Sourirajan found a way to cast cellulose acetate so that it had a very thin, dense skin on top of a spongy support. Water flowed through far faster, and salt still stayed behind. Their patent was filed in 1960 and granted in 1964.",
+      "why": "This was the first practical reverse osmosis membrane, the ancestor of the one in every RO purifier.",
+      "box": "membrane",
+      "sources": [
+        19,
+        20,
+        18,
+        21
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "c. 1963",
+      "era": "membranes",
+      "art": "coil",
+      "title": "Rolling the membrane up",
+      "who": "General Atomics",
+      "where": "San Diego, California, USA",
+      "country": "United States",
+      "text": "Engineers at General Atomics rolled flat sheets of membrane and spacer mesh around a central tube, like a Swiss roll. Water pushed in along the outside and clean water spiralled into the tube.",
+      "why": "The spiral-wound element packs a large membrane into a small tube, and it is the shape of the RO cartridge in a home purifier.",
+      "box": "anatomy",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "June 1965",
+      "era": "membranes",
+      "art": "tap",
+      "key": true,
+      "title": "A town drinks RO water",
+      "who": "Sidney Loeb and the city of Coalinga",
+      "where": "Coalinga, California, USA",
+      "country": "United States",
+      "text": "Coalinga's well water was too full of minerals to drink, so drinking water was brought in by railway tank cars. A small plant with Loeb's membranes began turning the salty well water into drinking water, about 5,000 gallons a day.",
+      "why": "It was the first reverse osmosis plant to make drinking water for a town.",
+      "box": "reject",
+      "sources": [
+        18,
+        21,
+        16
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "filed 1979, granted 7 July 1981",
+      "era": "membranes",
+      "art": "molecule",
+      "key": true,
+      "title": "The thin-film composite membrane",
+      "who": "John Cadotte, FilmTec",
+      "where": "Minneapolis, Minnesota, USA",
+      "country": "United States",
+      "text": "John Cadotte made a new kind of membrane by letting two chemicals meet where water and oil touch. They react into a polyamide layer far thinner than a hair, right on top of a porous support. His patent reported over 99.3% salt rejection with high flow.",
+      "why": "Almost every RO membrane made today, at home or in giant plants, is a thin-film composite like his.",
+      "box": "membrane",
+      "sources": [
+        22,
+        17,
+        16
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "home",
+      "art": "bolt",
+      "key": true,
+      "title": "Aquaguard arrives",
+      "who": "Eureka Forbes",
+      "where": "India",
+      "country": "India",
+      "text": "Eureka Forbes, a joint venture of Forbes & Company and Electrolux, launched its Aquaguard water purifiers. Families who had only boiled or cloth-filtered water now had a machine on the wall that filtered it and killed germs with ultraviolet light. Aquaguard became so common that many people use the name for any purifier.",
+      "why": "It created the home water purifier market in India.",
+      "box": "uv",
+      "sources": [
+        28,
+        27
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "home",
+      "art": "word",
+      "title": "WHO's drinking water guidelines",
+      "who": "World Health Organization",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "The World Health Organization published the first edition of its Guidelines for Drinking-water Quality. They give countries a science-based list of what can safely be in drinking water, from germs to chemicals.",
+      "why": "Many national standards, including India's, lean on these guidelines.",
+      "box": "tds",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "March 1999",
+      "era": "home",
+      "art": "waterdrop",
+      "title": "RO comes to Indian kitchens",
+      "who": "Mahesh Gupta, KENT RO Systems",
+      "where": "Noida, India",
+      "country": "India",
+      "text": "Mahesh Gupta, an engineer who studied at IIT Kanpur, started KENT RO Systems after his own children fell ill from contaminated water, according to the company. KENT sold home purifiers that used reverse osmosis, a technology then mostly found in factories and plants.",
+      "why": "Home RO purifiers spread fast in Indian cities where groundwater is hard or salty.",
+      "box": "anatomy",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "July 2010",
+      "era": "sea",
+      "art": "building",
+      "title": "Chennai drinks the Bay of Bengal",
+      "who": "Chennai Metropolitan Water Supply and Sewerage Board",
+      "where": "Minjur, near Chennai, India",
+      "country": "India",
+      "text": "The Minjur plant began turning seawater from the Bay of Bengal into 100 million litres of drinking water a day by reverse osmosis. A second 100 million litre plant at Nemmeli began in 2013. A much bigger 400 million litre plant at Perur is expected around 2027.",
+      "why": "Minjur was India's largest desalination plant when it opened, and it made seawater a real water source for an Indian city.",
+      "box": "reject",
+      "sources": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012 (first issued in the 1980s)",
+      "era": "home",
+      "art": "word",
+      "title": "India's drinking water standard",
+      "who": "Bureau of Indian Standards",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The latest version of IS 10500, India's drinking water specification, says the acceptable level of total dissolved solids (TDS) is 500 mg per litre. Up to 2,000 mg per litre is permitted when there is no better source.",
+      "why": "This 500 mg per litre line is the number most Indian arguments about RO come back to.",
+      "box": "tds",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "October 2013",
+      "era": "sea",
+      "art": "earth",
+      "title": "Sorek, a giant by the sea",
+      "who": "IDE Technologies",
+      "where": "Sorek, south of Tel Aviv, Israel",
+      "country": "Israel",
+      "text": "The Sorek plant opened with a capacity of 624,000 cubic metres of drinking water a day, making it the world's biggest seawater RO plant at the time. It stacks huge 16-inch membrane tubes upright to save space.",
+      "why": "It showed seawater RO could supply a large share of a whole country's tap water.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015 (updated 2023)",
+      "era": "home",
+      "art": "scroll",
+      "title": "A standard for home RO",
+      "who": "Bureau of Indian Standards",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "BIS published IS 16240, the Indian Standard for reverse osmosis purifiers used at home. Purifiers certified under it are tested for things such as how well they clean water and how much of the input water they recover.",
+      "why": "It gave buyers a way to trust a purifier, and put water wastage into the rulebook.",
+      "box": "reject",
+      "sources": [
+        34
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "May 2019",
+      "era": "home",
+      "art": "scroll",
+      "key": true,
+      "title": "Don't use RO where you don't need it",
+      "who": "National Green Tribunal",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India's National Green Tribunal told the government to stop RO use where water already has less than 500 mg per litre of TDS. It asked that purifiers recover more than 60% of the water, aiming for 75%, and that the reject water be used for mopping, gardening or washing. A 2020 draft rule, later tribunal orders and a 2022 Supreme Court stay kept the debate going.",
+      "why": "It made the whole country ask how much water home purifiers throw away, and whether soft water really needs RO.",
+      "box": "reject",
+      "sources": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "sea",
+      "art": "earth",
+      "title": "A thirsty world counts its plants",
+      "who": "Edward Jones and colleagues (UN University)",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "A study counted 15,906 working desalination plants making about 95 million cubic metres of fresh water a day, almost half of it in the Middle East and North Africa. It also found they make about 142 million cubic metres of salty brine a day.",
+      "why": "It showed that the waste stream, not just the clean water, is a big part of the desalination story.",
+      "box": "reject",
+      "sources": [
+        35,
+        16
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Osmosis observed",
+      "value": "1748",
+      "who": "Jean-Antoine Nollet, France"
+    },
+    {
+      "label": "Filtered water for a whole city",
+      "value": "1829",
+      "who": "James Simpson, Chelsea Waterworks, London"
+    },
+    {
+      "label": "Osmotic pressure measured",
+      "value": "1877",
+      "who": "Wilhelm Pfeffer, Germany"
+    },
+    {
+      "label": "Continuous chlorination of a US city's water",
+      "value": "1908",
+      "who": "John Leal and George Fuller, Jersey City, USA"
+    },
+    {
+      "label": "UV disinfection of a city's drinking water",
+      "value": "1910 (widely cited)",
+      "who": "Marseille, France"
+    },
+    {
+      "label": "Practical reverse osmosis membrane",
+      "value": "1959–1960",
+      "who": "Sidney Loeb and Srinivasa Sourirajan, UCLA"
+    },
+    {
+      "label": "RO plant making drinking water for a town",
+      "value": "1965",
+      "who": "Coalinga, California, USA"
+    },
+    {
+      "label": "Thin-film composite RO membrane patent",
+      "value": "1981",
+      "who": "John Cadotte, FilmTec, USA"
+    },
+    {
+      "label": "Household water purifier brand in India",
+      "value": "1984",
+      "who": "Aquaguard, Eureka Forbes"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jean-Antoine Nollet",
+      "life": "1700 – 1770",
+      "role": "Physicist and priest",
+      "from": "France",
+      "note": "The first person known to record osmosis, using a pig's bladder and a jar of alcohol."
+    },
+    {
+      "name": "Wilhelm Pfeffer",
+      "life": "1845 – 1920",
+      "role": "Botanist",
+      "from": "Germany",
+      "note": "Built a membrane inside a clay pot and measured osmotic pressure for the first time."
+    },
+    {
+      "name": "Jacobus van 't Hoff",
+      "life": "1852 – 1911",
+      "role": "Chemist",
+      "from": "Netherlands",
+      "note": "Wrote the law of osmotic pressure and won the first Nobel Prize in Chemistry."
+    },
+    {
+      "name": "John Snow",
+      "life": "1813 – 1858",
+      "role": "Doctor",
+      "from": "England",
+      "note": "Mapped cholera deaths around the Broad Street pump and showed disease could spread through water."
+    },
+    {
+      "name": "Ellen Swallow Richards",
+      "life": "1842 – 1911",
+      "role": "Chemist",
+      "from": "USA",
+      "note": "The first woman at MIT, whose huge water survey led to America's first water-quality standards."
+    },
+    {
+      "name": "John L. Leal",
+      "life": "1858 – 1914",
+      "role": "Doctor and health officer",
+      "from": "USA",
+      "note": "Put chlorine into a US city's water every day, starting in Jersey City in 1908."
+    },
+    {
+      "name": "Sidney Loeb",
+      "life": "1917 – 2008",
+      "role": "Chemical engineer",
+      "from": "USA and Israel",
+      "note": "Co-invented the first practical RO membrane, then moved to Israel and invented pressure retarded osmosis."
+    },
+    {
+      "name": "Srinivasa Sourirajan",
+      "life": "1923 – 2022",
+      "role": "Chemist and chemical engineer",
+      "from": "India and Canada",
+      "note": "Born in Tamil Nadu, he co-invented the RO membrane at UCLA and later made Canada's National Research Council a world centre for membrane research."
+    }
+  ],
+  "series": [
+    {
+      "id": "energy",
+      "title": "Energy needed to make seawater drinkable with RO",
+      "unit": "kWh per m³",
+      "log": false,
+      "after": "sea",
+      "caption": "Better membranes and devices that recycle pressure cut the electricity needed for each cubic metre (1,000 litres) of fresh water from the sea. Physics sets a floor of about 1 kWh per m³.",
+      "points": [
+        {
+          "year": 1975,
+          "value": 20,
+          "label": "1970s: around 20 kWh/m³ (Kumar, Culp and Shen, NAE 2017, as charted by Hannah Ritchie)"
+        },
+        {
+          "year": 2011,
+          "value": 3.25,
+          "label": "2011: state of the art 2.5 to 4 kWh/m³, midpoint shown (Elimelech and Phillip, Science)"
+        },
+        {
+          "year": 2021,
+          "value": 2,
+          "label": "2021: the most efficient plants use under 2 kWh/m³ (Danfoss)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Sidney Loeb earned about $14,000 from the RO patent over its whole life, for an invention that grew into a multi-billion dollar industry.",
+    "Many older home RO purifiers kept only about 1 litre in 5 of the water that went in; the rest went down the drain as reject water.",
+    "Desalination plants around the world make more salty brine each day, about 142 million cubic metres, than fresh water, about 95 million.",
+    "Pulling the salt out of seawater needs at least about 1 kWh per cubic metre, a limit set by physics, and the best plants now use less than twice that.",
+    "When Nollet pricked his bulging pig's bladder in 1748, the liquid squirted up more than a foot."
+  ],
+  "sources": [
+    {
+      "title": "Water purification",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Water_purification"
+    },
+    {
+      "title": "The History of Drinking Water Treatment (EPA-816-F-00-006, February 2000)",
+      "publisher": "U.S. Environmental Protection Agency",
+      "url": "https://archive.epa.gov/water/archive/web/pdf/2001_11_15_consumer_hist.pdf"
+    },
+    {
+      "title": "History of water filters",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_water_filters"
+    },
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Strychnos potatorum (clearing-nut tree)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strychnos_potatorum"
+    },
+    {
+      "title": "Slow sand filter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slow_sand_filter"
+    },
+    {
+      "title": "John Snow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Snow"
+    },
+    {
+      "title": "John Snow site",
+      "publisher": "UCLA Fielding School of Public Health",
+      "url": "https://www.ph.ucla.edu/epi/snow.html"
+    },
+    {
+      "title": "John L. Leal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_L._Leal"
+    },
+    {
+      "title": "History of municipal treatment of drinking water",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_municipal_treatment_of_drinking_water"
+    },
+    {
+      "title": "Ultraviolet germicidal irradiation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation"
+    },
+    {
+      "title": "The History of Ultraviolet Germicidal Irradiation for Air Disinfection (Reed, 2010)",
+      "publisher": "Public Health Reports, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2789813/"
+    },
+    {
+      "title": "Jean-Antoine Nollet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean-Antoine_Nollet"
+    },
+    {
+      "title": "Osmosis",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/osmosis"
+    },
+    {
+      "title": "Pfeffer Cell Apparatus",
+      "publisher": "Embryo Project Encyclopedia, Arizona State University",
+      "url": "https://embryo.asu.edu/pages/pfeffer-cell-apparatus"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1901: Jacobus H. van 't Hoff",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1901/summary/"
+    },
+    {
+      "title": "Reverse osmosis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reverse_osmosis"
+    },
+    {
+      "title": "Water Desalination: History, Advances, and Challenges (Kumar, Culp and Shen, 2017)",
+      "publisher": "National Academy of Engineering, National Academies Press",
+      "url": "https://www.nationalacademies.org/read/23659/chapter/14"
+    },
+    {
+      "title": "Sidney Loeb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidney_Loeb"
+    },
+    {
+      "title": "US 3,133,132: High flow porous membranes for separating water from saline solutions",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3133132A/en"
+    },
+    {
+      "title": "Remembering Srinivasa Sourirajan, the 'father of reverse osmosis'",
+      "publisher": "Shaastra, IIT Madras",
+      "url": "https://shaastramag.iitm.ac.in/time-machine/remembering-srinivasa-sourirajan-father-reverse-osmosis"
+    },
+    {
+      "title": "Water Warriors",
+      "publisher": "UCLA Magazine",
+      "url": "https://newsroom.ucla.edu/magazine/water-desalination-freshwater-technology"
+    },
+    {
+      "title": "US 4,277,344: Interfacially synthesized reverse osmosis membrane",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US4277344A/en"
+    },
+    {
+      "title": "Sorek I Desalination Plant",
+      "publisher": "IDE Technologies",
+      "url": "https://ide-tech.com/en/project/sorek-desalination-plant/"
+    },
+    {
+      "title": "Minjur Seawater Desalination Plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Minjur_Seawater_Desalination_Plant"
+    },
+    {
+      "title": "Nemmeli Seawater Desalination Plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nemmeli_Seawater_Desalination_Plant"
+    },
+    {
+      "title": "Perur desalination plant to add 400 MLD to Chennai's water supply by 2027",
+      "publisher": "DT Next",
+      "url": "https://www.dtnext.in/news/chennai/perur-desalination-plant-to-add-400-mld-to-chennais-water-supply-by-2027"
+    },
+    {
+      "title": "Eureka Forbes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Forbes"
+    },
+    {
+      "title": "Eureka Forbes: The Water Wars (case study)",
+      "publisher": "ICMR India",
+      "url": "https://www.icmrindia.org/casestudies/catalogue/Business%20Strategy/eureka-forbes-changing-market-dynamics-excerpts.htm"
+    },
+    {
+      "title": "About KENT RO Systems",
+      "publisher": "KENT RO Systems",
+      "url": "https://www.kent.co.in/pages/about-us"
+    },
+    {
+      "title": "NGT: Ban ROs where dissolved solids in water below 500 mg/l",
+      "publisher": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/archive/nation/ngt-ban-ros-where-dissolved-solids-in-water-below-500-mg-l-779571"
+    },
+    {
+      "title": "Centre's new draft for RO systems not what NGT asked for",
+      "publisher": "Down To Earth",
+      "url": "https://www.downtoearth.org.in/water/centre-s-new-draft-for-ro-systems-not-what-ngt-asked-for-69193"
+    },
+    {
+      "title": "SC stays NGT ban on water purifiers where TDS below 500 mg per litre",
+      "publisher": "Business Standard",
+      "url": "https://www.business-standard.com/article/current-affairs/sc-stays-ngt-ban-on-water-purifiers-where-tds-below-500-mg-per-litre-122030100625_1.html"
+    },
+    {
+      "title": "Product manual for IS 10500: Drinking water, specification",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.bis.gov.in/wp-content/uploads/2020/10/PM-IS-10500.pdf"
+    },
+    {
+      "title": "Product manual for IS 16240: Reverse osmosis based point-of-use water treatment system",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.bis.gov.in/wp-content/uploads/2020/06/PM-IS-16240.pdf"
+    },
+    {
+      "title": "The state of desalination and brine production: A global outlook (Jones et al., 2019)",
+      "publisher": "Science of the Total Environment",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969718349167"
+    },
+    {
+      "title": "The Future of Seawater Desalination: Energy, Technology, and the Environment (Elimelech and Phillip, 2011)",
+      "publisher": "Science",
+      "url": "https://www.science.org/doi/10.1126/science.1200488"
+    },
+    {
+      "title": "How much energy does desalinisation use?",
+      "publisher": "Hannah Ritchie, Sustainability by Numbers",
+      "url": "https://hannahritchie.substack.com/p/how-much-energy-does-desalinisation"
+    },
+    {
+      "title": "A brief history of the energy intensity of desalination",
+      "publisher": "Danfoss",
+      "url": "https://www.danfoss.com/en/about-danfoss/articles/hpp/a-brief-history-of-the-energy-intensity-of-desalination/"
+    },
+    {
+      "title": "Ellen Swallow Richards",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Swallow_Richards"
+    },
+    {
+      "title": "Guidelines for drinking-water quality",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/water-safety-and-quality/drinking-water-quality-guidelines"
+    },
+    {
+      "title": "Jacobus Henricus van 't Hoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
+    }
+  ]
+}

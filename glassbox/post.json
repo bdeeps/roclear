@@ -1,0 +1,126 @@
+{
+  "slug": "roclear",
+  "box": 10,
+  "question": "How does an RO water purifier work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/roclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/roclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "3,500 years from settling mud with alum to pushing water backwards through a plastic skin in millions of Indian kitchens.\n\n300: Boil it, sun it, filter it\n1748: Water sneaks through a pig's bladder\n1854: The Broad Street pump\n1908: Chlorine every day\n1960: A skin thin enough to work\n1965: A town drinks RO water\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/roclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/roclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #waterpurifier #reverseosmosis #ro #osmosis #tds #desalination #history",
+      "youtube": {
+        "title": "The history of the RO water purifier in 45 seconds #shorts",
+        "description": "3,500 years from settling mud with alum to pushing water backwards through a plastic skin in millions of Indian kitchens.\n\n300 · Boil it, sun it, filter it (Sushruta Samhita (Sanskrit medical text))\n1748 · Water sneaks through a pig's bladder (Jean-Antoine Nollet)\n1854 · The Broad Street pump (John Snow)\n1908 · Chlorine every day (John L. Leal and George W. Fuller)\n1960 · A skin thin enough to work (Sidney Loeb and Srinivasa Sourirajan)\n1965 · A town drinks RO water (Sidney Loeb and the city of Coalinga)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/roclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/roclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does an RO water purifier work?\n\nYour kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.\n\n→ A home RO purifier is a row of filters, a pump and one very fine membrane.\n→ Only water squeezes through the membrane. Salt and germs go down the drain.\n→ Water sneaks through a membrane towards the salty side. That is osmosis.\n→ Push harder than the osmotic pressure and the flow flips: reverse osmosis.\n→ Unroll an RO cartridge: a membrane sheet with a skin a few hundred times thinner than a hair.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/roclear (link in bio)\n\nBox No. 010 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #waterpurifier #reverseosmosis #ro #osmosis #tds #desalination #uv #ultrafiltration #threejs",
+    "carousel": "Swipe through: How does an RO water purifier work?\n\nYour kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/roclear (link in bio).\n\nBox No. 010 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #waterpurifier #reverseosmosis #ro #osmosis #tds #desalination",
+    "youtube": {
+      "title": "How does an RO water purifier work? #shorts",
+      "description": "Your kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/roclear/\n⌘ Source code (MIT): https://github.com/bdeeps/roclear\n\nBox No. 010 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does an RO water purifier work? (interactive explainer)",
+      "description": "Your kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/roclear/\n⌘ Source code (MIT): https://github.com/bdeeps/roclear\n\nIn this video:\n• A row of filters and one fine membrane. A home RO purifier chains a sediment filter, activated carbon, a booster pump, the RO membrane, a carbon polish, a UV lamp and UF fibres, a mineral cartridge and a storage tank.\n• Osmosis, run backwards. Water on its own flows through a membrane towards the saltier side.\n• No holes, just a very thin skin. The membrane is a polyamide skin about 0.1 to 0.2 micrometres thick, rolled round a tube.\n• TDS: less is not always better. RO takes 1,000 ppm borewell water down to about 50 ppm.\n• Most of the water goes down the drain. The rejected salt has to be washed away, so a typical home unit sends 2 to 3 litres to the drain for every litre you drink.\n• UV kills, UF strains, neither desalts. UV-C light at 254 nm scrambles germs' DNA; the dose falls if the water runs faster or the lamp ages.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does an RO water purifier work?\n\nYour kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/roclear/",
+    "linkedin": "How does an RO water purifier work?\n\nYour kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.\n\n1. A row of filters and one fine membrane\n2. Osmosis, run backwards\n3. No holes, just a very thin skin\n4. TDS: less is not always better\n5. Most of the water goes down the drain\n6. UV kills, UF strains, neither desalts\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 010 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/roclear/\nCode: https://github.com/bdeeps/roclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T06:31:01.334Z"
+}

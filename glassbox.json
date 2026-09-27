@@ -1,0 +1,105 @@
+{
+  "slug": "roclear",
+  "box": 10,
+  "date": "2026-10-03",
+  "title": "ROClear",
+  "question": "How does an RO water purifier work?",
+  "hook": "Your kitchen purifier pushes water so hard that it squeezes out of the salt, through a skin with no real holes. Take an RO purifier apart in 3D, flip osmosis backwards, and see where the other two litres go.",
+  "thumbText": "HOW RO PURIFIERS WORK",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "water purifier",
+    "reverse osmosis",
+    "RO",
+    "osmosis",
+    "TDS",
+    "desalination",
+    "UV",
+    "ultrafiltration",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A row of filters and one fine membrane",
+      "text": "A home RO purifier chains a sediment filter, activated carbon, a booster pump, the RO membrane, a carbon polish, a UV lamp and UF fibres, a mineral cartridge and a storage tank. Each stage catches something different: dirt, chlorine, dissolved salts, germs."
+    },
+    {
+      "title": "Osmosis, run backwards",
+      "text": "Water on its own flows through a membrane towards the saltier side. The push that stops it is the osmotic pressure, about 0.8 bar for water with 1,000 ppm of salt and 27 bar for seawater. A pump pushing harder than that forces fresh water out of the salty side instead."
+    },
+    {
+      "title": "No holes, just a very thin skin",
+      "text": "The membrane is a polyamide skin about 0.1 to 0.2 micrometres thick, rolled round a tube. Water dissolves into it and diffuses across; ions in their shell of water barely do. It holds back 95 to 99% of dissolved salts, and germs thousands of times bigger than a water molecule."
+    },
+    {
+      "title": "TDS: less is not always better",
+      "text": "RO takes 1,000 ppm borewell water down to about 50 ppm. India's BIS standard allows up to 500. A TDS controller blends some pre-filtered water back for taste, but that water skipped the membrane, so any fluoride or arsenic in it comes back too."
+    },
+    {
+      "title": "Most of the water goes down the drain",
+      "text": "The rejected salt has to be washed away, so a typical home unit sends 2 to 3 litres to the drain for every litre you drink. Recover more and the reject gets so salty that scale forms on the membrane. Reject water is fine for mopping and flushing."
+    },
+    {
+      "title": "UV kills, UF strains, neither desalts",
+      "text": "UV-C light at 254 nm scrambles germs' DNA; the dose falls if the water runs faster or the lamp ages. UF fibres with 0.01 µm pores strain out bacteria and cysts. Both leave salts alone, so low-TDS city water needs only UV or UF, not RO."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Reverse osmosis",
+      "def": "Pushing water through a semi-permeable membrane harder than the osmotic pressure, so fresh water leaves the dissolved salts behind."
+    },
+    {
+      "term": "Osmotic pressure",
+      "def": "The pressure needed to stop water flowing into a salty solution through a membrane. For salt water, π = iMRT."
+    },
+    {
+      "term": "Semi-permeable membrane",
+      "def": "A skin that lets water molecules through but blocks dissolved ions."
+    },
+    {
+      "term": "Thin-film composite",
+      "def": "An RO membrane made of an ultra-thin polyamide layer on a porous support, rolled into a spiral-wound element."
+    },
+    {
+      "term": "TDS",
+      "def": "Total dissolved solids: everything dissolved in water, in mg per litre (ppm)."
+    },
+    {
+      "term": "Salt rejection",
+      "def": "The share of dissolved salt a membrane holds back, usually 95 to 99%."
+    },
+    {
+      "term": "Recovery",
+      "def": "The share of the incoming water that comes out purified. The rest leaves as reject."
+    },
+    {
+      "term": "UV dose",
+      "def": "UV light intensity multiplied by time, in mJ/cm². It sets how many germs are inactivated."
+    },
+    {
+      "term": "Ultrafiltration",
+      "def": "Filtering through pores about 0.01 µm wide: it catches bacteria and cysts but not dissolved salts."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "roclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
